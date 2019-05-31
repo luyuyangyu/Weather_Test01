@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="cool_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.sdbi.weather_test01.db.Province             " />
+        <mapping class="com.sdbi.weather_test01.db.City" />
+        <mapping class="com.sdbi.weather_test01.db.County" />
+    </list>
+
+</litepal>
